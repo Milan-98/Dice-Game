@@ -1,0 +1,28 @@
+.players{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    
+}
+.dices{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.winners{
+    text-align: center;
+}
+#geek{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+button{
+    padding: 20px;
+    font-size: x-large;
+    font-weight: bolder;
+    padding-left: 40px;
+    padding-right: 40px;
+
+}
