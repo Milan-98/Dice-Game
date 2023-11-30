@@ -28,7 +28,7 @@
 
 ## Documentation
 
-[Project-Link](https://digital-dice.netlify.app)
+[Project-Link is not wotking, due to netlify error](https://digital-dice.netlify.app)
 
 
 ## Feedback
